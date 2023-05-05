@@ -16,7 +16,7 @@ class PostsController < ApplicationController
   end
 
   # GET /posts/1/edit
-  def edid
+  def edit
   end
 
   # POST /posts or /posts.json
